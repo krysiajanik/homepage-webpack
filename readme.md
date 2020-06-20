@@ -1,4 +1,4 @@
-![cover](https://krysiajanik.github.io/homepage-webpack/src/assets/img/cover.png)
+![cover](https://krysiajanik.github.io/homepage-webpack/img/cover.png)
 
 # Krysia Janik - homepage 
 
@@ -6,7 +6,7 @@ One on very first webpack projects, created as part of course "WTF: Co Ten Front
 
 ## How to access?
 
-Wepage is in Polish only. It's published on github pages [here] (https://krysiajanik.github.io/homepage-webpack/).
+Wepage is in Polish only. It's published on github pages [here](https://krysiajanik.github.io/homepage-webpack/).
 
 ## What to discover?
 

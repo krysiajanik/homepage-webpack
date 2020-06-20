@@ -2,7 +2,7 @@
 
 # Krysia Janik - homepage 
 
-One on very first webpack projects, created as part of course "WTF: Co Ten Frontend"
+One of the very first webpack projects, created as part of the course "WTF: Co Ten Frontend"
 
 ## How to access?
 

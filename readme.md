@@ -1,18 +1,18 @@
-![cover](https://cotenfrontend.pl/img/cover.png)
+![cover](https://krysiajanik.github.io/homepage-webpack/src/assets/img/cover.png)
 
-# WTF Webpack Starter Kit 
+# Krysia Janik - homepage 
 
-Simple toolkit for your static websites development.
+One on very first webpack projects, created as part of course "WTF: Co Ten Frontend"
 
-## How to use it?
+## How to access?
 
-Click on `Use this template` button to generate a new repository based on this starter kit. After that clone it to your computer, go to the project directory in console and type `npm install`.
+Wepage is in Polish only. It's published on github pages [here] (https://krysiajanik.github.io/homepage-webpack/).
 
-## Available scripts
+## What to discover?
 
-`npm run start` - runs development mode
+I heartily recommend the **meme** section. Even though it was only updated initially, in the first weeks of the WTF course, it still cracks me up every time.
 
-`npm run build` - runs build process for production
+The **homework** section was initially designed as a playground for less comprehensive homeworks, as in "play with grid" or "give google fonts a go".
 
-`npm run publish` - runs build process and publish the page using `gh-pages` branch
+I will definitely not be updating the **diary** section, as, let's be honest, no one wants to read that and it's not remotely entertaining.
 

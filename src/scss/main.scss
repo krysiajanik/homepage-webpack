@@ -223,6 +223,10 @@
   color: #443844e7;
   margin-top: 8px;
   padding-top: 8px;
+  transition: color 0.3s linear;
+  &:hover {
+      color: #a00ca0e7;
+  }
 }
 
 .main {
@@ -300,8 +304,12 @@
       list-style: none;
       margin: 0 8px;
       padding: 8px;
+      transition: transform 0.3s ease-in-out;
       &--first {
           margin-top: 16px;
+      }
+      &:hover {
+          transform: scale(1.2);
       }
   }
   &__list {
@@ -324,6 +332,10 @@
       text-decoration: none;
       list-style: none;
       color: white;
+      transition: text-decoration 1s ease-in;
+      &:hover {
+          text-decoration: underline;
+      }
   }
   @media screen and (min-width: 480px) {
       &__item {

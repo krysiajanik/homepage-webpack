@@ -6,6 +6,9 @@ module.exports = {
   entry: {
     index: "./src/js/index.js",
   },
+  entry: {
+    index: "./src/js/fetch.js",
+  },
   output: {
     filename: "[name].[hash:8].js",
     path: __dirname + "/dist",

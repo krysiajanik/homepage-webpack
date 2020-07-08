@@ -1,7 +1,5 @@
 import '../scss/main.scss';
 
-import './fetch.js'
-
 /* place your code below */
 
 console.log("Hello there");
